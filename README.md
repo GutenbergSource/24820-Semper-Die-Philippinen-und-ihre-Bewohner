@@ -14,7 +14,7 @@ The version maintained in this repository may be slightly out-of-sync with the v
 | Publisher | Project Gutenberg, Urbana, Illinois, USA., 2008-03-13 |
 | Publication date | 2008-03-13 |
 | Availability | This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org. This eBook is produced by Jeroen Hellingman and the Online Distributed Proofreading Team at www.pgdp.net. Scans for this book are available on-line from the Staatsbibliothek zu Berlin (copy 1). |
-de| Keyword | Ethnology -- Philippines |
+| Keyword | Ethnology -- Philippines |
 | Keyword | Natural history -- Philippines |
 | Keyword | Philippines -- Description and travel |
 | Keyword | Physical geography -- Philippines |
