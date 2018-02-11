@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Die Philippinen und ihre Bewohner: Sechs Skizzen</dc:title>
+      <dc:creator>Carl Semper (1832–1893)</dc:creator>
+      <dc:creator>Gustav Karsten (1820–1900)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2008-03-13</dc:publisher>
+      <dc:date>2008-03-13</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by Jeroen Hellingman and the Online Distributed Proofreading Team at www.pgdp.net.
+Scans for this book are available on-line from the Staatsbibliothek zu Berlin (copy 1).
+</dc:rights>
+      <dc:language>de</dc:language>
+      <dc:subject>Ethnology -- Philippines</dc:subject>
+      <dc:subject>Natural history -- Philippines</dc:subject>
+      <dc:subject>Philippines -- Description and travel</dc:subject>
+      <dc:subject>Physical geography -- Philippines
+            </dc:subject>
+      <dc:identifier>pg:24820</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
