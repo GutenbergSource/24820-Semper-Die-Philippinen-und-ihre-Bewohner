@@ -13,7 +13,7 @@ The version maintained in this repository may be slightly out-of-sync with the v
 | Author | Gustav Karsten (1820–1900) |
 | Publisher | Project Gutenberg, Urbana, Illinois, USA., 2008-03-13 |
 | Publication date | 2008-03-13 |
-| Availability | This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org. This eBook is produced by Jeroen Hellingman and the Online Distributed Proofreading Team at www.pgdp.net. Scans for this book are available on-line from the Staatsbibliothek zu Berlin (copy 1). |
+| Availability | This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the [Project Gutenberg License](https://www.gutenberg.org/license) included with this eBook or online at [www.gutenberg.org](https://www.gutenberg.org/). This eBook is produced by Jeroen Hellingman and the Online Distributed Proofreading Team at [www.pgdp.net](http://www.pgdp.net/). Scans for this book are available on-line from the Staatsbibliothek zu Berlin (copy [1](http://resolver.staatsbibliothek-berlin.de/SBB0000137B00000000)). |
 | Keyword | Ethnology -- Philippines |
 | Keyword | Natural history -- Philippines |
 | Keyword | Philippines -- Description and travel |
